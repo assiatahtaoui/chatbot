@@ -72,7 +72,4 @@ SBR ChatBot is a sleek AI-powered chatbot app built using **Flutter** and **Open
 Powered by OpenAI's APIs
 
 ---
-
-## 👤 Author
-
-**Saad El Mabrouk** 
+ 
